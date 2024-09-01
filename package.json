@@ -4,7 +4,7 @@
   "description": "",
   "main": "tree-practice.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --bail"
   },
   "author": "",
   "license": "ISC",
